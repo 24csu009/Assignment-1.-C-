@@ -35,3 +35,4 @@ int main() {
         printFactors(n);
     }
     return 0;
+}
